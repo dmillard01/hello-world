@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hello!
+Human here, just trying to learn
+
